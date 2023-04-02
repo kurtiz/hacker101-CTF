@@ -61,6 +61,7 @@ I found the flag of the as an attribute to the button
 
 `Flag-2: ^FLAG^852054350ada392a2bad5ea547a05895b302e1c273093026e351af0b0fba0ae6$FLAG$
 `
+
 And the last flag:
 I tried various modes of attack but proved futile. I then tried a simple sql injection in the various input fields and in the url as well. For form seemed sanitized when it came to sql injections but the url was not so I got the flag
 
