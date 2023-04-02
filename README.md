@@ -1,6 +1,6 @@
 # [Hacker101 CTF](https://ctf.hacker101.com/ctf)
 
-![hacker101 Logo](hacker101-logo.png)
+<img src="hacker101-logo.png" width="400px">
 
 This write up comprises of my thought processes on how i solved the challenges
 
