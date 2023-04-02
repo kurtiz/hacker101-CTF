@@ -24,7 +24,7 @@ This write up comprises of my thought processes on how i solved the challenges
         </tr>
         <tr>
             <td>
-                <a href="./micro-cms_v1/README.md">Micro-CMS v1</a>
+                <a href="./micro_cms_v1/README.md">Micro-CMS v1</a>
             </td>
             <td>
                 Easy
