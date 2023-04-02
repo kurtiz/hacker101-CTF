@@ -20,4 +20,4 @@ Right click on the image in the network tab and select open in new tab. It will 
 
 ![flag](img4.png)
 
-Flag: ^FLAG^803346e68434b76270c2ffe9ffbacc17cc24afbacc843757175e985ad36b60b4$FLAG$
+`Flag: ^FLAG^803346e68434b76270c2ffe9ffbacc17cc24afbacc843757175e985ad36b60b4$FLAG$`
